@@ -1,3 +1,6 @@
+*{
+    border: 2px solid red;
+}
 .background-color{
     background: #95cdef
 }
@@ -28,4 +31,10 @@ navbar-default {
 }
 .bottom-stuff{
     min-height: 300px;
+}
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
 }
