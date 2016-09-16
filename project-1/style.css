@@ -1,4 +1,4 @@
-.body{
+.background-color{
     background: #95cdef
 }
 .bottom-upper{
@@ -10,7 +10,7 @@
 }
 
 navbar-default .navbar-brand {
-    color: #95cdef;
+    color: #fff;
 }
 navbar-default {
     font-size: 15px;
