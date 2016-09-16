@@ -1,12 +1,55 @@
-.blue{
-    background: cornflowerblue
-}
-.red{
-    background: darkred
-}
+
 .bottom-upper{
     min-height: 400px
 }
 .addons{
     background-color: #95cdef;
 }
+#u.navbar-default .navbar-brand {
+    color: rgba(255, 255, 255, 1);
+}
+#u.navbar-default {
+    font-size: 15px;
+    background-color: rgba(149, 205, 239, 1);
+    border-width: 0px;
+    border-radius: 0px;
+}
+#u.navbar-default .navbar-nav>li>a {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(149, 205, 239, 1);
+}
+#u.navbar-default .navbar-nav>li>a:hover,
+#u.navbar-default .navbar-nav>li>a:focus {
+    color: rgba(0, 0, 0, 1);
+    background-color: rgba(149, 205, 239, 1);
+}
+#u.navbar-default .navbar-nav>.active>a,
+#u.navbar-default .navbar-nav>.active>a:hover,
+#u.navbar-default .navbar-nav>.active>a:focus {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(149, 205, 239, 1);
+}
+#u.navbar-default .navbar-toggle {
+    border-color: #95cdef;
+}
+#u.navbar-default .navbar-toggle:hover,
+#u.navbar-default .navbar-toggle:focus {
+    background-color: #95cdef;
+}
+#u.navbar-default .navbar-toggle .icon-bar {
+    background-color: #95cdef;
+}
+#u.navbar-default .navbar-toggle:hover .icon-bar,
+#u.navbar-default .navbar-toggle:focus .icon-bar {
+    background-color: #95cdef;
+}
+StylesMenu ItemsMisc
+Miscellaneous
+Menu ID
+u
+Brand
+Brand
+Brand URL
+#
+Menu Type
+Position
