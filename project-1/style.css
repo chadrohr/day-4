@@ -1,41 +1,5 @@
 *{
-    border: 2px solid red;
+    border: 1px solid red;
 }
 .background-color{
     background: #95cdef
-}
-.bottom-upper{
-    min-height: 500px
-}
-.brand{
-    max-height: 150px;
-    max-width: 150px;
-}
-
-.navbar-default .navbar-brand {
-    color: #fff;
-}
-.navbar-default {
-    font-size: 15px;
-    background-color: #95cdef;
-    border-width: 0px;
-    border-radius: 0px;
-}
-.middle-upper{
-    text-align: center;
-    min-height: 300px
-}
-.middle-lower{
-    text-align: center;
-    min-height: 300px;
-}
-.bottom-stuff{
-    background: darkgrey
-    min-height: 300px;
-}
-.center-block {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-
-}
