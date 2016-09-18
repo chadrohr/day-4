@@ -7,6 +7,9 @@
 .bgheader{
   background: #95cdef;
 }
+navbar-right{
+  color: white;
+}
 .card {
   background-color: lightgrey;
   color: darkred;
