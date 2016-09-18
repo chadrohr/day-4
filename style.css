@@ -8,6 +8,8 @@
 .navbar-collapse{
   color: #fff
 }
+.special-color{
+background: blue
 }
 .card {
   background-color: lightgrey;
