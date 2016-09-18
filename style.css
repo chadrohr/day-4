@@ -4,7 +4,9 @@
 .background-color{
     background: #95cdef;
 }
-
+.bgheader{
+  background: #95cdef;
+}
 .card {
   background-color: lightgrey;
   color: darkred;
