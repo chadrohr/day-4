@@ -11,6 +11,9 @@
 .btn-special-color{
 background: blue
 }
+btn-default{
+  border radius: 47px;
+}
 .card {
   background-color: lightgrey;
   color: darkred;
