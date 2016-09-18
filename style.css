@@ -5,11 +5,9 @@
 .bgheader{
   background: #95cdef;
 }
-.dropdown{
-  color: white;
-}
-.a{
+.navbar-collapse{
   color: #fff
+}
 }
 .card {
   background-color: lightgrey;
