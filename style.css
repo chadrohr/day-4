@@ -12,7 +12,7 @@
 background: blue
 }
 btn-default{
-  border radius: 47px;
+  border-radius: 47px;
 }
 .card {
   background-color: lightgrey;
